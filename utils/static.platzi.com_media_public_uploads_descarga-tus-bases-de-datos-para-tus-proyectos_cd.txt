@@ -1,0 +1,13 @@
+DESCARGA TUS BASES DE DATOS PARA TUS PROYECTOS
+
+Lenguaje de Señas:
+https://storage.googleapis.com/platzi-tf2/sign-language-img.zip 
+
+Tom & Jerry:
+https://storage.googleapis.com/platzi-tf2/TomAndJerry.zip 
+
+Tumor:
+https://storage.googleapis.com/platzi-tf2/TumorClassification.zip 
+
+Malaria:
+https://storage.googleapis.com/platzi-tf2/MalariaCells.zip 
